@@ -1,0 +1,6 @@
+argparse
+langchain
+BeautifulSoup4
+gpt4all
+chromadb
+langchainhub
